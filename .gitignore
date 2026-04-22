@@ -1,0 +1,5 @@
+*.docx
+*.pdf
+*.ps1
+node_modules/
+.vercel/
